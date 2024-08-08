@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+.primeira-div{
+     width: 551px;
+    height: 160px;
+    display: flex;
+    flex-direction: row;
+
+    img{
+      width: 256px;
+       height: 144px;
+       border-radius: 4%;
+       display: flex;
+    }
+
+    .segunda-div{
+       
+        padding: 0px 10px ;
+    }
+.textin-1 {
+    display: flex;
+    font-family: Helvetica;
+    padding: 0px 0px 8px;
+    font-size: 14px;
+}
+.textin-2{
+    display: flex;
+    font-family: Helvetica;
+    font-size: small;
+}
+
+.textin-flex{
+    display: flex;
+    flex-direction: row;
+    font-family: Helvetica;
+    padding: 8px 0px;
+    font-size: 12px;
+    
+}
+}
+
